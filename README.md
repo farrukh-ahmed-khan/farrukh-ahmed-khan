@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Farrukh Ahmed Khan</h1>
 <h3 align="center">A passionate Mern Stack developer from Pakistan</h3>
-<p align="center"> <img align="center" width="400" src="https://miro.medium.com/v2/format:jpg/resize:fill:80:56/0*7Q3yvSIv_t0ioJ-Z.gif" alt="Coding" /></p>
+<p align="center"> [<img align="center" width="400" src="https://miro.medium.com/v2/format:jpg/resize:fill:80:56/0*7Q3yvSIv_t0ioJ-Z.gif" alt="Coding" />](https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif)</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farrukh-ahmed-khan&label=Profile%20views&color=0e75b6&style=flat" alt="farrukh-ahmed-khan" /> </p>
 
