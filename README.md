@@ -1,5 +1,5 @@
 <h1 align="center">Farrukh Ahmed Khan</h1>
-<h3 align="center">A passionate Mern Stack developer from Pakistan</h3>
+<h3 align="center">A passionate Senior Full Stack Engineer from Pakistan</h3>
 <p align="center"> <img src="https://media0.giphy.com/media/WIAXKEDP8R0IBSAXUk/giphy.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farrukh-ahmed-khan&label=Profile%20views&color=0e75b6&style=flat" alt="farrukh-ahmed-khan" /> </p>
