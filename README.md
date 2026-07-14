@@ -6,8 +6,6 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=farrukh-ahmed-khan" alt="farrukh-ahmed-khan" /></a> </p> -->
 
-- 💬 Ask me about **Mern**
-
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/farrukh-ahmed-khan/" target="_blank">
