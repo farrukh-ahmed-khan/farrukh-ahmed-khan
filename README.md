@@ -24,9 +24,4 @@
   </a>
 </p>
 
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=farrukh-ahmed-khan&show_icons=true&locale=en&layout=compact" alt="farrukh-ahmed-khan" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=farrukh-ahmed-khan&show_icons=true&locale=en" alt="farrukh-ahmed-khan" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=farrukh-ahmed-khan&" alt="farrukh-ahmed-khan" /></p>
