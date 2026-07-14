@@ -8,15 +8,24 @@
 
 - 💬 Ask me about **Mern**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/farrukh-ahmed-khan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="farrukh-ahmed-khan" height="30" width="40" /></a>
-              
-<a href="https://fb.com/farrukh-ahmed-khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="farrukh-ahmed-khan" height="30" width="40" /></a>
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/farrukh-ahmed-khan/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://fb.com/farrukh-ahmed-khan" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+  </a>
+  <a href="https://farrukhahmedkhan.me/" target="_blank">
+    <img src="https://img.shields.io/badge/Website-Visit-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio website" height="30" />
+  </a>
+  <a href="https://www.upwork.com/freelancers/farrukhahmedkhan" target="_blank">
+    <img src="https://img.shields.io/badge/Upwork-Hire%20Me-14A800?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork profile" height="30" />
+  </a>
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=farrukh-ahmed-khan&show_icons=true&locale=en&layout=compact" alt="farrukh-ahmed-khan" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=farrukh-ahmed-khan&show_icons=true&locale=en&layout=compact" alt="farrukh-ahmed-khan" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=farrukh-ahmed-khan&show_icons=true&locale=en" alt="farrukh-ahmed-khan" /></p>
 
