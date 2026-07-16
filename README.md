@@ -17,9 +17,7 @@
   <a href="https://farrukhahmedkhan.me/" target="_blank">
     <img src="https://img.shields.io/badge/Website-Visit-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio website" height="30" />
   </a>
-  <a href="https://www.upwork.com/freelancers/farrukhahmedkhan" target="_blank">
-    <img src="https://img.shields.io/badge/Upwork-Hire%20Me-14A800?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork profile" height="30" />
-  </a>
+  
 </p>
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=farrukh-ahmed-khan&" alt="farrukh-ahmed-khan" /></p> -->
